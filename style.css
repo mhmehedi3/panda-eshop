@@ -1,0 +1,79 @@
+body{
+    background-image: linear-gradient(rgb(236, 219, 219));
+    background-repeat: no-repeat;
+}
+.container{
+    margin-bottom: 100px;
+    
+}
+.orange-bg{
+    background-color: rgb(232, 167, 167);
+}
+
+.carousel-item{
+  
+   padding: 35px;
+
+}
+.carousel{
+    border-radius: 10px;
+    height: 500px;
+}
+
+.price{
+    color: #ff136f;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,#ff589b 0%,#ff136f 100%);
+    color: blanchedalmond;
+    border: none;
+    border-radius: 5px;
+    padding: 5px,25px;
+    cursor: pointer;
+}
+
+.cat1{
+    background-image: linear-gradient(to left,rgb(231, 181, 90) 0%, rgb(231, 162, 34) 100%);
+    border-radius: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+.cat2{
+    background-image: linear-gradient(to left,rgb(244, 96, 121) 0%, rgb(240, 67, 96) 100%);
+    border-radius: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.cat3{
+    background-image: linear-gradient(to left, rgb(107, 107, 231) 0%,rgb(53, 53, 231) 100%);
+    border-radius: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.catagories img{
+ width: 100px;
+}
+.buy-now-button2{ 
+    background-image: linear-gradient(to bottom,#f75462 0%,#e92956 100%);
+    color: blanchedalmond;
+    border: none;
+    border-radius: 5px;
+    padding: 5px,25px;
+    cursor: pointer;
+
+}
+.card{
+    border: none;
+    box-shadow: 3px 3px 10px gray;
+}
+.contract{
+    background-image: linear-gradient(to bottom,rgb(233, 160, 192) 0%,  rgb(232, 167, 167) 100%);
+    padding-top: 15px;
+    padding-bottom:15px;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    justify-content: center;
+}
